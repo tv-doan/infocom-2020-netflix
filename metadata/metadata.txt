@@ -1,0 +1,106 @@
+|-------+--------------+-----------+----------+----------+--------------------------+--------------|
+| PROBE | SINCE        | HARDWARE  | ASNv4    | ASNv6    | LOCATION                 | TYPE         |
+|-------+--------------+-----------+----------+----------+--------------------------+--------------|
+|  #01  | 2013, Mar 12 | WR741NDv4 | AS680    | AS680    | Bremen                   | NREN         |
+|  #02  | 2017, Jan 18 | WR741NDv4 | AS8767   | AS8767   | Munich                   | RESIDENTIAL  |
+|  #03  | 2013, Mar 12 | WR741NDv4 | AS24956  | AS24956  | Braunschweig             | BUSINESS     |
+|  #04  | 2016, Jan 12 | WR741NDv4 | AS3320   | AS3320   | Oldenburg                | RESIDENTIAL  |
+|  #05  | 2016, Jul 08 | WR741NDv4 | AS5607   | AS5607   | London                   | RESIDENTIAL  |
+|  #06  | 2013, Jun 14 | WR741NDv4 | AS3269   | AS3269   | Torino                   | LAB          |
+|  #07  | 2013, Jun 19 | WR741NDv4 | AS8903   | AS8903   | Madrid                   | LAB          |
+|  #08  | 2013, Jun 21 | WR741NDv4 | AS2614   | AS2614   | Timisoara                | NREN         |
+|  #09  | 2013, Jun 27 | WR741NDv4 | AS13030  | AS13030  | Olten                    | BUSINESS     |
+|  #10  | 2016, Mar 27 | WR741NDv4 | AS2856   | AS2856   | Ipswich                  | LAB          |
+|  #11  | 2014, Jan 17 | WR741ND   | AS50989  | AS1257   | Stockholm                | RESIDENTIAL  |
+|  #12  | 2014, Jan 19 | WR741ND   | AS4685   | AS4718   | Fukuoka                  | RESIDENTIAL  |
+|  #13  | 2014, Jan 21 | WR741ND   | AS12715  | AS12715  | Madrid                   | RESIDENTIAL  |
+|  #14  | 2014, Feb 06 | WR741ND   | AS18070  | AS18070  | Niigata                  | IXP          |
+|  #15  | 2016, Jul 02 | WR741ND   | AS12392  | AS12392  | Gembloux                 | RESIDENTIAL  |
+|  #16  | 2014, Feb 17 | WR741NDv4 | AS513    | AS513    | CERN                     | RESEARCH     |
+|  #17  | 2014, Mar 10 | WR741ND   | AS9031   | AS9031   | Alleur                   | RESIDENTIAL  |
+|  #18  | 2014, Mar 03 | WDR3600   | AS680    | AS680    | Bremen                   | NREN         |
+|  #19  | 2015, Nov 07 | WDR3600   | AS3265   | AS3265   | Hengelo                  | RESIDENTIAL  |
+|  #20  | 2014, Mar 19 | WR741ND   | AS2518   | AS2516   | Shizuoka                 | RESIDENTIAL  |
+|  #21  | 2014, Aug 21 | WR741NDv4 | AS1741   | AS1741   | Helsinki                 | NREN         |
+|  #22  | 2014, Oct 29 | WR741ND   | AS8708   | AS8708   | Roman                    | RESIDENTIAL  |
+|  #23  | 2014, Oct 29 | WR741ND   | AS197451 | AS197451 | Brno                     | RESEARCH     |
+|  #24  | 2015, Jul 14 | WDR3600   | AS8426   | AS8426   | Southampton              | RESIDENTIAL  |
+|  #25  | 2015, Jan 15 | WR741ND   | AS1759   | AS1759   | Tarttila                 | RESIDENTIAL  |
+|  #26  | 2015, Feb 16 | WDR3600   | AS5607   | AS5607   | London                   | RESIDENTIAL  |
+|  #27  | 2015, Feb 16 | WDR3600   | AS7922   | AS7922   | Philadelphia             | RESIDENTIAL  |
+|  #28  | 2015, Feb 16 | WDR3600   | AS209    | AS209    | Golden                   | RESIDENTIAL  |
+|  #29  | 2017, Jan 24 | WDR3600   | AS7247   | AS7247   | Fremont                  | DATACENTER   |
+|  #30  | 2015, Feb 16 | WR741NDv4 | AS7922   | AS7922   | Atlanta                  | RESIDENTIAL  |
+|  #31  | 2015, Feb 16 | WR741NDv4 | AS20001  | AS20001  | Santa Clarita            | RESIDENTIAL  |
+|  #32  | 2015, Feb 16 | WDR3600   | AS7922   | AS7922   | Somerville               | RESIDENTIAL  |
+|  #33  | 2015, Feb 16 | WR741ND   | AS1133   | AS1103   | Enschede                 | NREN         |
+|  #34  | 2015, Feb 27 | WR741ND   | AS3265   | AS3265   | Vught                    | RESIDENTIAL  |
+|  #35  | 2015, Feb 27 | WDR3600   | AS11426  | AS11426  | Raleigh                  | RESIDENTIAL  |
+|  #36  | 2016, May 05 | WDR3600   | AS7922   | AS7922   | Falling Waters           | RESIDENTIAL  |
+|  #37  | 2015, Feb 27 | WR741ND   | AS852    | AS852    | Calgary                  | RESIDENTIAL  |
+|  #38  | 2015, Feb 27 | WDR3600   | AS7922   | AS7922   | San Jose                 | RESIDENTIAL  |
+|  #39  | 2015, Mar 03 | WDR3600   | AS3320   | AS3320   | Neckargemund             | RESIDENTIAL  |
+|  #40  | 2015, Mar 03 | WDR3600   | AS41164  | AS41164  | Drammen                  | RESIDENTIAL  |
+|  #41  | 2015, Mar 03 | WDR3600   | AS1734   | AS1734   | San Jose                 | BUSINESS     |
+|  #42  | 2015, Mar 03 | WR741NDv4 | AS5645   | AS5645   | Toronto                  | RESIDENTIAL  |
+|  #43  | 2015, Mar 03 | WR741ND   | AS3269   | AS3269   | Pisa                     | RESIDENTIAL  |
+|  #44  | 2015, Mar 09 | WR741NDv4 | AS7922   | AS7922   | Salem                    | RESIDENTIAL  |
+|  #45  | 2015, Mar 09 | WR741NDv4 | AS6871   | AS6871   | Malmesbury               | RESIDENTIAL  |
+|  #46  | 2015, Mar 09 | WDR3600   | AS20001  | AS20001  | Kailua                   | RESIDENTIAL  |
+|  #47  | 2015, Mar 09 | WR741NDv4 | AS53347  | AS53347  | Sioux Center             | DATACENTER   |
+|  #48  | 2015, Mar 09 | WR741ND   | AS2116   | AS2116   | Oslo                     | RESIDENTIAL  |
+|  #49  | 2015, Mar 09 | WDR3600   | AS41164  | AS41164  | Oslo                     | RESIDENTIAL  |
+|  #50  | 2015, Mar 09 | WDR3600   | AS12578  | AS12578  | Riga                     | RESIDENTIAL  |
+|  #51  | 2015, Mar 13 | WR741ND   | AS16117  | AS16117  | Gavle                    | BUSINESS     |
+|  #52  | 2016, Jul 28 | WR741NDv4 | AS5466   | AS5466   | Dublin                   | RESIDENTIAL  |
+|  #53  | 2015, Mar 13 | WR741ND   | AS29449  | AS29449  | San Benedetto del Tronto | RESIDENTIAL  |
+|  #54  | 2016, Mar 21 | WDR3600   | AS2519   | AS2516   | Tokyo                    | LAB          |
+|  #55  | 2015, Mar 13 | WDR3600   | AS2119   | AS2119   | Jessheim                 | RESIDENTIAL  |
+|  #56  | 2015, Mar 26 | WR741NDv4 | AS53347  | AS53347  | Sioux Center             | RESIDENTIAL  |
+|  #57  | 2016, Aug 12 | WR741NDv4 | AS3265   | AS3265   | Delft                    | RESIDENTIAL  |
+|  #58  | 2015, Mar 26 | WDR3600   | AS7922   | AS7015   | Somerville               | RESIDENTIAL  |
+|  #59  | 2015, Mar 26 | WR741ND   | AS9146   | AS9146   | Sarajevo                 | RESIDENTIAL  |
+|  #60  | 2015, Mar 26 | WDR3600   | AS7922   | AS7015   | Belmont                  | RESIDENTIAL  |
+|  #61  | 2015, Mar 26 | WDR3600   | AS7922   | AS33652  | Colorado Springs         | RESIDENTIAL  |
+|  #62  | 2015, Apr 25 | WR741ND   | AS3265   | AS3265   | Haarlem                  | RESIDENTIAL  |
+|  #63  | 2015, Apr 26 | WDR3600   | AS13319  | AS13319  | Ottawa                   | RESIDENTIAL  |
+|  #64  | 2015, Apr 26 | WDR3600   | AS4773   | AS4773   | Singapore                | RESIDENTIAL  |
+|  #65  | 2015, Apr 26 | WDR3600   | AS5432   | AS5432   | Lokeren                  | RESIDENTIAL  |
+|  #66  | 2015, Apr 26 | WR741ND   | AS1916   | AS16735  | Fortaleza                | NREN         |
+|  #67  | 2015, Apr 26 | WDR3600   | AS7922   | AS7922   | Salem                    | RESIDENTIAL  |
+|  #68  | 2015, Apr 26 | WR741ND   | AS56304  | AS56304  | Christchurch             | RESIDENTIAL  |
+|  #69  | 2015, Apr 26 | WDR3600   | AS11351  | AS11351  | Rochester                | RESIDENTIAL  |
+|  #70  | 2015, May 23 | WR741ND   | AS3741   | AS3741   | Johannesburg             | RESIDENTIAL  |
+|  #71  | 2015, May 31 | WR741NDv4 | AS12322  | AS12322  | Nancy                    | RESIDENTIAL  |
+|  #72  | 2015, Jun 25 | WDR3600   | AS12322  | AS12322  | Cormeilles en Parisis    | RESIDENTIAL  |
+|  #73  | 2015, Jul 14 | WDR3600   | AS8121   | AS8121   | Ashburn                  | DATACENTER   |
+|  #74  | 2015, Jul 14 | WR741ND   | AS20625  | AS20625  | Bollnas                  | BUSINESS     |
+|  #75  | 2015, Jul 14 | WDR3600   | AS13030  | AS13030  | Zurich                   | RESIDENTIAL  |
+|  #76  | 2015, Jul 14 | WR741NDv4 | AS6648   | -        | Quezon City              | NREN         |
+|  #77  | 2015, Aug 19 | WDR3600   | AS5381   | AS5381   | Oslo                     | RESIDENTIAL  |
+|  #78  | 2015, Aug 14 | WDR3600   | AS7922   | AS7922   | Chicago                  | RESIDENTIAL  |
+|  #79  | 2016, Sep 11 | WDR3600   | AS2119   | AS2119   | Bergen                   | RESIDENTIAL  |
+|  #80  | 2015, Nov 04 | WDR3600   | AS14877  | -        | Harrisburg               | NREN         |
+|  #81  | 2016, Sep 19 | SKWB8     | AS2119   | AS2119   | Jessheim                 | RESIDENTIAL  |
+|  #82  | 2016, Nov 08 | SKWB8     | AS2119   | AS2119   | Oslo                     | RESIDENTIAL  |
+|  #83  | 2016, Nov 12 | SKWB8     | AS9031   | AS9031   | Brussels                 | RESIDENTIAL  |
+|  #84  | 2016, Nov 12 | SKWB8     | AS5466   | AS5466   | Wicklow                  | RESIDENTIAL  |
+|  #85  | 2016, Nov 12 | SKWB8     | AS15659  | AS15659  | Hagan                    | RESIDENTIAL  |
+|  #86  | 2016, Nov 12 | SKWB8     | AS5603   | AS5603   | Domzale                  | RESIDENTIAL  |
+|  #87  | 2016, Nov 12 | SKWB8     | AS51615  | AS51615  | Nova Gorica              | RESIDENTIAL  |
+|  #88  | 2016, Nov 12 | SKWB8     | AS5607   | AS5607   | Kent                     | RESIDENTIAL  |
+|  #89  | 2016, Nov 13 | SKWB8     | AS7922   | AS7922   | Sunnyvale                | RESIDENTIAL  |
+|  #90  | 2016, Nov 13 | SKWB8     | AS34779  | AS34779  | Ptuj                     | RESIDENTIAL  |
+|  #91  | 2016, Nov 13 | SKWB8     | AS8708   | AS8708   | Costinesti               | RESIDENTIAL  |
+|  #92  | 2016, Nov 15 | SKWB8     | AS34779  | AS34779  | Ljubljana                | RESIDENTIAL  |
+|  #93  | 2016, Nov 15 | SKWB8     | AS7922   | AS7922   | Seattle                  | RESIDENTIAL  |
+|  #94  | 2016, Nov 15 | SKWB8     | AS3265   | AS3265   | Houten                   | RESIDENTIAL  |
+|  #95  | 2016, Nov 15 | SKWB8     | AS5603   | AS5603   | Skofja Loka              | RESIDENTIAL  |
+|  #96  | 2016, Nov 16 | SKWB8     | AS7922   | AS7922   | Michigan                 | RESIDENTIAL  |
+|  #97  | 2016, Nov 30 | SKWB8     | AS20375  | AS20375  | Port Moody               | RESIDENTIAL  |
+|  #98  | 2016, Nov 30 | SKWB8     | AS3320   | AS3320   | Munich                   | RESIDENTIAL  |
+|  #99  | 2016, Dec 02 | SKWB8     | AS45873  | AS31732  | Doncaster                | RESIDENTIAL  |
+|  #100 | 2016, Dec 06 | SKWB8     | AS4739   | AS4739   | Brisbane                 | RESIDENTIAL  |
+|  #101 | 2016, Dec 09 | SKWB8     | AS23655  | AS23655  | Christchurch             | RESIDENTIAL  |
+|  #102 | 2016, Dec 12 | SKWB8     | AS12271  | AS12271  | New York City            | RESIDENTIAL  |
+|-------+--------------+-----------+----------+----------+--------------------------+--------------|
