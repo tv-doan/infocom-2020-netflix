@@ -3,7 +3,7 @@
 Trinh Viet Doan (Technical University of Munich) | Vaibhav Bajpai (Technical University of Munich) | Sam Crawford (SamKnows)
 
 
-[IEEE INFOCOM 2020](https://infocom2020.ieee-infocom.org/), July 6&ndash;9, 2020. [Pre-print available &rarr;](http://home.in.tum.de/~doan/2020-netflix-delivery.pdf) 
+[IEEE INFOCOM 2020](https://infocom2020.ieee-infocom.org/), July 6&ndash;9, 2020. [Publication &rarr;](https://doi.org/10.1109/INFOCOM41043.2020.9155367) 
 
 ---
 
@@ -18,7 +18,7 @@ The dataset is collected from ~100 SamKnows probes:
 
 The raw datasets are available at:
 
-* [Technical University of Munich, mediaTUM &rarr; TBD]  [](http://doi.org/...)
+* [Technical University of Munich, mediaTUM &rarr;](https://doi.org/10.14459/2020mp1538249)
 
 The data consists of two sqlite3 databases, one for the measurements by the `netflix` test (`netflix-data.db`), the other one for the throughput measurements toward MLab (`mlab-data.db`).  
 
